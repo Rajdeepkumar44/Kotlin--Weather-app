@@ -28,7 +28,7 @@ The app provides **real-time weather updates** based on the user’s location or
 
 
 ---
-const val API_KEY = "e5aeb0aa9c959edcaf88ddb3d01c82f6"
+
 
 
 
